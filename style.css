@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-content: center;
     height: calc(100vh - 1rem);
+    background-color: black;
     width: calc(100vw - 1rem);
     padding: 1rem;
     font-family: 'Poppins', sans-serif;
